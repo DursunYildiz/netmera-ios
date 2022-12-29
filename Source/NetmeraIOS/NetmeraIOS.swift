@@ -6,3 +6,8 @@
 //
 
 import Foundation
+import Foundation
+import AFNetworking
+private class NetmeraIOS {
+    
+}
